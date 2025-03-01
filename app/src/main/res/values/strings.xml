@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JobSearchAppTestTask</string>
+    <string name="keywords">Должность, ключевые слова</string>
+    <string name="search_icon">Search icon</string>
+    <string name="filter">Filter</string>
+    <string name="recommendations_icon">Recommendations Icon</string>
+    <string name="vacations">Вакансии для вас</string>
+    <string name="company_icon">Company icon</string>
+    <string name="experience">Experience</string>
+    <string name="in_favorite">В избранном</string>
+    <string name="published">Опубликовано</string>
+    <string name="respond">Откликнуться</string>
+    <string name="correspondence">By correspondence</string>
+    <string name="position_for_suitable_vacancies">Должность по подходящим вакансиям</string>
+    <string name="still">Еще</string>
+    <string name="by_correspondence">По соответствию</string>
+    <string name="search">Поиск</string>
+    <string name="favorite">Избранное</string>
+    <string name="responses">Отклики</string>
+    <string name="comments">Сообщения</string>
+    <string name="profile">Профиль</string>
+    <string name="navigation_icon">Navigation Icon</string>
+    <string name="comm">Сообщения</string>
+    <string name="resp">Отклики</string>
+    <string name="prof">Профиль</string>
+    <string name="favour">Избранное</string>
+</resources>
